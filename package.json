@@ -1,0 +1,23 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "My presentations for the architecture course @ Thomas More - IMD",
+  "main": "index.js",
+  "scripts": {
+    "generate:all": "./node_modules/.bin/marp arch_se01e01_20210922.md -o './output/arch_20210922.pdf'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rceuls/imd-arch-presentations.git"
+  },
+  "keywords": [],
+  "author": "Raf Ceuls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rceuls/imd-arch-presentations/issues"
+  },
+  "homepage": "https://github.com/rceuls/imd-arch-presentations#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^1.4.0"
+  }
+}
