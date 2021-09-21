@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My presentations for the architecture course @ Thomas More - IMD",
   "scripts": {
-    "generate:all": "./node_modules/.bin/marp -I . -o ./output --pdf",
+    "generate:all": "./node_modules/.bin/marp -I . -o ./output --pdf --allow-local-files",
     "server": "./node_modules/.bin/marp -s ."
   },
   "repository": {
