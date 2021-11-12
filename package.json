@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rceuls/imd-arch-presentations#readme",
   "devDependencies": {
-    "@marp-team/marp-cli": "^1.4.0"
+    "@marp-team/marp-cli": "^1.4.2"
   }
 }
