@@ -1,6 +1,6 @@
 # Import for January
 
-- [ ] make sure your code compiles (`dotnet build`)
+- [ ] make sure your code compiles (`dotnet build`) and runs (`dotnet run`).
 - [ ] make sure your code compiles with the least amount of warnings possible
 - [ ] make sure your tests pass (`dotnet test`)
 - [ ] make sure your tests are actual tests and not "let's boost the coverage percentage"
