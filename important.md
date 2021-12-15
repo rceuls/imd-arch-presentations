@@ -8,3 +8,4 @@
 - [ ] make sure your code is clean and consistent
 - [ ] make sure your API is clean and consistent
 - [ ] make sure you can defend the code your team wrote
+- [ ] make sure you document what you are missing from the [initial assignment](https://thomasmore.instructure.com/courses/18318/pages/annual-assignment) (and why)
